@@ -1,0 +1,38 @@
+# Core ML Libraries
+numpy==1.24.3
+pandas==2.0.3
+scikit-learn==1.3.0
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Deep Learning
+tensorflow==2.13.0
+keras==2.13.1
+
+# Image Processing
+opencv-python==4.8.0.76
+Pillow==10.0.0
+scikit-image==0.21.0
+
+# Web Framework
+Flask==2.3.3
+Flask-CORS==4.0.0
+
+# Data Analysis & Visualization
+plotly==5.17.0
+jupyter==1.0.0
+ipykernel==6.25.2
+
+# Utilities
+tqdm==4.66.1
+PyYAML==6.0.1
+joblib==1.3.2
+
+# Model Interpretation
+shap==0.42.1
+lime==0.2.0.1
+
+# Development
+pytest==7.4.2
+black==23.7.0
+flake8==6.0.0
